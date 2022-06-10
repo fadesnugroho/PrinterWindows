@@ -1,0 +1,15 @@
+D:\Pemograman\PrinterWindows\bin\Debug\net6.0\PrinterWindows.exe
+D:\Pemograman\PrinterWindows\bin\Debug\net6.0\PrinterWindows.deps.json
+D:\Pemograman\PrinterWindows\bin\Debug\net6.0\PrinterWindows.runtimeconfig.json
+D:\Pemograman\PrinterWindows\bin\Debug\net6.0\PrinterWindows.dll
+D:\Pemograman\PrinterWindows\bin\Debug\net6.0\PrinterWindows.pdb
+D:\Pemograman\PrinterWindows\obj\Debug\net6.0\PrinterWindows.csproj.AssemblyReference.cache
+D:\Pemograman\PrinterWindows\obj\Debug\net6.0\PrinterWindows.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pemograman\PrinterWindows\obj\Debug\net6.0\PrinterWindows.AssemblyInfoInputs.cache
+D:\Pemograman\PrinterWindows\obj\Debug\net6.0\PrinterWindows.AssemblyInfo.cs
+D:\Pemograman\PrinterWindows\obj\Debug\net6.0\PrinterWindows.csproj.CoreCompileInputs.cache
+D:\Pemograman\PrinterWindows\obj\Debug\net6.0\PrinterWindows.dll
+D:\Pemograman\PrinterWindows\obj\Debug\net6.0\refint\PrinterWindows.dll
+D:\Pemograman\PrinterWindows\obj\Debug\net6.0\PrinterWindows.pdb
+D:\Pemograman\PrinterWindows\obj\Debug\net6.0\PrinterWindows.genruntimeconfig.cache
+D:\Pemograman\PrinterWindows\obj\Debug\net6.0\ref\PrinterWindows.dll
